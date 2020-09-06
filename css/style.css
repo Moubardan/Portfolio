@@ -1,0 +1,25 @@
+/* import fonts from fonts.css file */
+@import url(./fonts.css);
+/* start navigation */
+.navbar .navbar-brand{
+  padding: 0 2rem 0 5rem;
+  
+}
+.header_area .main-menu .navbar{
+  padding: 1rem 10rem;
+}
+
+.nav-link{
+ 
+ /*font-family: "Roboto",cursive;*/
+ text-transform: uppercase;
+ font-weight: 500;
+ padding: 1.7rem;
+ color:yellow;
+}
+
+.code{
+  color: blue;
+  text-transform: uppercase;
+}
+/* end navigation */
