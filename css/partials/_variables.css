@@ -1,0 +1,20 @@
+html,body{
+  margin: 0%;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+
+/* css varibles */
+:root{
+  --primary-color: #4458dc;
+  --primary-color2: #854fee;
+  --title-color: #141313;
+  --text-color: #777777;
+  --border-color: #201f1f17;
+  --gradient-color: linear-gradient(90deg,#4242b4 0%, #3c148d 100%);
+
+
+ /* font family */
+ --roboto:'Roboto Mono',monospace;
+}
